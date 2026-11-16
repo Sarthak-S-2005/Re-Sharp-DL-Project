@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+weights/*.pth
+weights/*.part
+outputs/*
+!outputs/.gitkeep
+.DS_Store

@@ -1,0 +1,6 @@
+# RE-SHARP dependencies. On Windows "pip install torch" from PyPI gives the CPU build (what we want).
+streamlit>=1.35,<1.50
+torch>=2.0
+numpy>=1.24
+pandas>=1.5
+Pillow>=10.1
